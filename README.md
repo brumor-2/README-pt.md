@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno Moraes  
 
-[🌎 Read in English](./README.md)  
+[🌎 Read in English](https://github.com/brumor-2)
 
 ## 💡 Sobre Mim
 Sou um **profissional em transição para QA** com 14 anos de experiência em processos administrativos, documentação e colaboração remota. Atualmente, foco em **testes manuais e automatizados de software**, buscando garantir qualidade e usabilidade com mentalidade de melhoria contínua.
